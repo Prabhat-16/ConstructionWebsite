@@ -54,8 +54,6 @@ A comprehensive web application for a construction company, featuring a public-f
 - Apache/Nginx web server
 - [phpMyAdmin](https://www.phpmyadmin.net/) (optional, for database management)
 
-## Screenshots
-Add screenshots of the homepage, admin dashboard, and key features here.
 
 ## Credits
 - Admin panel UI based on [Admin Pro by WrapPixel](https://wrappixel.com/demos/admin-templates/admin-pro/)
